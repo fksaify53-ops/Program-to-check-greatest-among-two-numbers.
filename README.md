@@ -1,4 +1,3 @@
-//Write a program to check greatest among two numbers.
 #include <stdio.h>
 
 int main()
